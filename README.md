@@ -4,6 +4,8 @@
 
 ## Description:
 - This is a simple web application that allows you to search for GitHub users and view their profiles along with their top repositories.
+  
+![image](https://github.com/AnubhavKumarGupta/Fetch-GitHub-Info/assets/122034618/b9a17f66-018b-4903-9979-e72314e31574)
 
 
 ## Features:
