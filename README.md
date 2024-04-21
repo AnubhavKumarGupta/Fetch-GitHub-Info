@@ -20,12 +20,13 @@
 - Open index.html in your web browser.
 
 
-## Technologies Used 
+## Technologies Used:
 - HTML: Provides the structure of the web page.
 - CSS: Styles the elements on the page to make it visually appealing.
 - JavaScript: Fetches user data from the GitHub API and dynamically updates the UI.
 - GitHub API: Retrieves user information and repositories data.
 
 ##
-#### Contribution
+
+#### Contribution:
 This code is open-source and contributions are welcome! Feel free to fork the repository and submit a pull request with your improvements .
